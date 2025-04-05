@@ -10,3 +10,4 @@ distance = 100  # meters
 time = 10  # seconds
 speed = calculate_speed(distance, time)
 print(f"Speed: {speed} m/s")
+rare
